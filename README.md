@@ -4,7 +4,7 @@
 
 > Memorable design remains clear, accessible, and useful after the novelty wears off.
 
-[Leia em Português (Brasil)](locales/pt-BR/README.md) · [Instruções da skill em Português](locales/pt-BR/SKILL.md)
+[Leia em Português (Brasil)](README.pt-BR.md) · [Instruções da skill em Português](SKILL.pt-BR.md)
 
 ## Why this skill exists
 
