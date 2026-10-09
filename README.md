@@ -4,11 +4,10 @@
 
 ### Design with intention. Build with precision. Deliver without compromise.
 
-<<<<<<< HEAD
 [Leia em Português (Brasil)](README.pt-BR.md) · [Instruções da skill em Português](SKILL.pt-BR.md)
 =======
+
 An **Agent Skill for high-quality digital product design** that guides AI agents to design, audit, refine, and implement distinctive, accessible, responsive, and production-minded interfaces.
->>>>>>> 9f21f51 (docs: update readme)
 
 From **art direction and UX** to **design systems, semantic front-end code, and quality assurance**—without the generic visual clichés often produced by AI.
 
